@@ -20,7 +20,7 @@ How do we start the project?
 
 Content of the files uploaded :
 
--> code.r::  An R file that contains the entire code of the projet along with the non-visual output.
+-> code.r::  An R file that contains the entire code of the project along with the non-visual output.
 
 -> data.csv::  A comma-seperate file that contains the  Historical Input Data without any technical indicators.
 
